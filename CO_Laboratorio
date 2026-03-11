@@ -1,1 +1,9 @@
-Para utilizar Colab Research de google
+Google Colab es una plataforma de Google que permite ejecutar código de Python en la nube desde el navegador, sin instalar nada en la computadora.
+Cómo usarlo (resumen):
+
+1) Entrar a Google Colab con una cuenta de Google.
+2) Crear un nuevo notebook (archivo de trabajo).
+3) Escribir código en las celdas de código.
+4) Ejecutar cada celda presionando Shift + Enter.
+5) Los resultados aparecen debajo de la celda (gráficos, datos, cálculos).
+6) El archivo se guarda automáticamente en Google Drive.
