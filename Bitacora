@@ -1,0 +1,5 @@
+_11/03/2026_:Realizamos un inductor cuya inductancia estaba dada por las primeras 3 letras de nuestros apellidos, las medimos y anotamos los valores esperados y los calculados.
+_18/03/2026_:Realizamos un capacitor con elementos que podemos encontrar en nuestras casas.
+_25/03/2026_: Un grupo con la camara brindada por el profe fotografio a la luna desde el piso y desde el techo del edificio de gobierno, otro grupo, intento escuchar señales de radio de aviones o de la torre de control.
+_01/04/2026_: Un grupo intentó monitorear las frecuencias de la repetidora local en el cerro. Aprendieron a usar el software para sintonizar las frecuencias  y lograron recibir y grabar algunos mensajes. Otro grupo se quedó viendo la presentación del profe y otro grupo intentó armar un servidor VPN para conectarse por ssh a la compu, pero como no tenemos una IP pública hubo que usar un servicio externo.
+_08/04/02026_:Escuchamos el seguimiento de ARTEMIS, y trabajamos en aprender a controlar el movimiento de los rotores con gpredict y la libreria hamlib.
