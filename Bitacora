@@ -1,6 +1,8 @@
-_04/03/2026_:Se nos hizo entrega de una pc para utilizar como servidor y se le instalo ubuntu.
-_11/03/2026_:Realizamos un inductor cuya inductancia estaba dada por las primeras 3 letras de nuestros apellidos, las medimos y anotamos los valores esperados y los calculados.
-_18/03/2026_:Realizamos un capacitor con elementos que podemos encontrar en nuestras casas, utilizamos la app ISS detector para ubicar y ver la tratectoria de la estacion espacial internacional, cada alumno creo un perfil en el servidor,
+_04/03/2026_: Se nos hizo entrega de una pc para utilizar como servidor y se le instalo ubuntu.
+_11/03/2026_: Realizamos un inductor cuya inductancia estaba dada por las primeras 3 letras de nuestros apellidos, las medimos y anotamos los valores esperados y los calculados.
+_18/03/2026_: Realizamos un capacitor con elementos que podemos encontrar en nuestras casas, utilizamos la app ISS detector para ubicar y ver la tratectoria de la estacion espacial internacional, cada alumno creo un perfil en el servidor,
 _25/03/2026_: Un grupo con la camara brindada por el profe fotografio a la luna desde el piso y desde el techo del edificio de gobierno, otro grupo, intento escuchar señales de radio de aviones o de la torre de control.
 _01/04/2026_: Un grupo intentó monitorear las frecuencias de la repetidora local en el cerro. Aprendieron a usar el software para sintonizar las frecuencias  y lograron recibir y grabar algunos mensajes. Otro grupo se quedó viendo la presentación del profe y otro grupo intentó armar un servidor VPN para conectarse por ssh a la compu, pero como no tenemos una IP pública hubo que usar un servicio externo.
-_08/04/02026_:Escuchamos el seguimiento de ARTEMIS, y trabajamos en aprender a controlar el movimiento de los rotores con gpredict y la libreria hamlib.
+_08/04/2026_: Escuchamos el seguimiento de ARTEMIS, y trabajamos en aprender a controlar el movimiento de los rotores con gpredict y la libreria hamlib.
+_15/04/2026_: Subimos una antena por el mastil de la bandera y utilizando un batido de ondas para escuchar las frecuencias de 7.050 MHz a 7.150 MHz y de 28.400 MHz a 28500 MHz y tambien utilizamos el batido de ondas con el SDR con dow converter
+_22/04/2026_: Diseñamos las antenas dipolo, paragua, moxon, cinta de metro, yagui, random wire, end fed half wave, end fed random wire para 144.4 Mhz y ver cual tiene masyor ganancia
