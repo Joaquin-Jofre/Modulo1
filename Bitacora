@@ -6,3 +6,6 @@ _01/04/2026_: Un grupo intentó monitorear las frecuencias de la repetidora loca
 _08/04/2026_: Escuchamos el seguimiento de ARTEMIS, y trabajamos en aprender a controlar el movimiento de los rotores con gpredict y la libreria hamlib.
 _15/04/2026_: Subimos una antena por el mastil de la bandera y utilizando un batido de ondas para escuchar las frecuencias de 7.050 MHz a 7.150 MHz y de 28.400 MHz a 28500 MHz y tambien utilizamos el batido de ondas con el SDR con dow converter, el ingeniero palma nos dio 2 motores pap para crear el dispositivo seguidor de satelites
 _22/04/2026_: Diseñamos las antenas dipolo, paragua, moxon, cinta de metro, yagui, random wire, end fed half wave, end fed random wire para 144.4 Mhz y ver cual tiene mayor ganancia. Comparamos las ganancias y las antenas yagi-uda y la moxon son las que mejor ganancia tienen.
+_29/04/2026_: Empezamos con el armando de la antena moxon
+_06/04/2026_: Suspención de clases por viento zonda
+_13/05/2026_: 
